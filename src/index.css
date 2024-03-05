@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .MuiGrid-item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+.MuiCardMedia-root{
+    width: 100%;
+    height: auto;
+}
